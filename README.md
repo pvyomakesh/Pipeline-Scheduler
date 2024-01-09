@@ -22,7 +22,7 @@ This will execute the program using test.in as input and produce an out.txt file
 The project includes a set of test input files and their corresponding expected output files:
 
 ### Input Files
-Located in the [Test Inputs Files](Test_Input_Files) folder:
+Located in the [Test Inputs Files](Test%20Input%20Files) folder:
 
 seq0.txt
 seq1.txt
